@@ -9,6 +9,9 @@ if (idade >= 18) {
   alert("Menor de iade")
 }
  */
+
+
+ 
 /*
 EXERCICIO 2
 let numero = Number(prompt("digite um numero"));
@@ -19,6 +22,11 @@ if (numero %2 == 0){
     alert("Numero impar")
 }
 */
+
+
+
+
+
 /*
 EXERCICIO 3
 let numero1 = parseFloat(prompt("Digite o primeiro número:"));
@@ -43,6 +51,11 @@ if (resultado !== undefined) {
     console.log("Resultado: " + resultado);
 }
     */
+
+
+
+
+    
 /*
 EXERCICIO 4
 
@@ -52,6 +65,12 @@ for (let i = 1; i <= 10; i++) {
     console.log(numero + " x " + i + " = " + (numero * i));
 }
     */
+
+
+
+
+
+    
 /*
 EXERCICIO 5
 
@@ -72,6 +91,11 @@ if (media >= 7) {
 }
 */
 
+
+
+
+
+
 /*
 EXERCICIO 6
 
@@ -81,6 +105,11 @@ for (let i = 1; i <= n; i++) {
     console.log(i);
 }
  */
+
+
+
+
+ 
 
 /*
 EXERCICIO 7
@@ -96,6 +125,11 @@ do {
 alert("Soma total: " + soma);
 */
 
+
+
+
+
+
 /*
 EXERCICIO 8
 let positivos = 0;
@@ -110,6 +144,11 @@ for (let i = 1; i <= 5; i++) {
 
 alert("Quantidade de números positivos: " + positivos);
 */
+
+
+
+
+
 
 /*
 EXERCICIO 9
@@ -136,6 +175,10 @@ if (!acesso) {
     alert("Acesso bloqueado");
 }
     */
+
+
+
+
 
 /*
 EXERCICIO 10
